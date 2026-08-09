@@ -1,0 +1,18 @@
+{
+   "schema_version": "1",
+   "onboarding_type": "copied",
+   "archived": false,
+   "maintained_action_name": "step-security/vimtor-action-zip",
+   "upstream_full_repo_name": "vimtor/action-zip",
+   "action_type": "node",
+   "last_release": {
+     "tag_name": "v1.3.0",
+     "created_at": "2026-04-07T14:17:39Z",
+     "published_at": "2026-04-08T05:42:45Z"
+   },
+   "sync": {
+     "ignore_presets": [
+       "defaults_v1"
+     ]
+   }
+ }
