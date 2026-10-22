@@ -30,10 +30,10 @@
   resolved "https://registry.yarnpkg.com/@actions/io/-/io-2.0.0.tgz#3ad1271ba3cd515324f2215e8d4c1c0c3864d65b"
   integrity sha512-Jv33IN09XLO+0HS79aaODsvIRyduiF7NY/F6LYeK5oeUmrsz7aFdRphQjFoESF4jS7lMauDOttKALcpapVDIAg==
 
-"@vercel/ncc@^0.38.0":
-  version "0.38.4"
-  resolved "https://registry.yarnpkg.com/@vercel/ncc/-/ncc-0.38.4.tgz#e1fb8be9e7ed33bf44c121131d4c6e95f784afac"
-  integrity sha512-8LwjnlP39s08C08J5NstzriPvW1SP8Zfpp1BvC2sI35kPeZnHfxVkCwu4/+Wodgnd60UtT1n8K8zw+Mp7J9JmQ==
+"@vercel/ncc@^0.44.1":
+  version "0.44.1"
+  resolved "https://registry.yarnpkg.com/@vercel/ncc/-/ncc-0.44.1.tgz#5becc6500a1494e5b9786150da6374d0b2d7671d"
+  integrity sha512-cUjIE5P2YY1n+Kt9rFIazMMpGoPn1Fic04rOmTkElMkiDP5oszGfERMpo2shVkFKDL7rVppdM2pqJKC59shQWQ==
 
 adm-zip@^0.4.14:
   version "0.4.14"
